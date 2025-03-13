@@ -1,4 +1,4 @@
-# WIEZIENIEgra - Prison Escape Console Game
+# Prison Escape Console Game
 
 ## Overview
 WIEZIENIEgra ("Prison Game") is a **C# console-based adventure game** where players navigate through various prison environments, solve challenges, and attempt to escape. The game features an interactive scene system, an inventory system, and a structured game loop to create an engaging text-based experience.
